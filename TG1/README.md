@@ -103,32 +103,31 @@ Na metade do projeto 2 membros do grupo começaram a ajudar bem menos no projeto
 <li><b>Criei por conta própia uma classe referente a ler e retornar os dados de um arquivo csv.</b><br><br>
 
 Classe Reader:
-<p><img src="assets/api3-file-reader.png"><p>
+<p><img src="assets/api3-file-reader.png" width="800"><p>
 
 <br><li><b>Fiz endpoints, repository, service e teste relacionados a revisão</b><br><br>
 
 Controller:
-<p><img src="assets/api3-controller-revision.png"><p>
+<p><img src="assets/api3-controller-revision.png" width="800"><p>
 
 Repository:
-<p><img src="assets/api3-repository-revision.png"><p>
+<p><img src="assets/api3-repository-revision.png" width="800"><p>
 
 Service:
-<p><img src="assets/api3-service-revision.png"><p>
+<p><img src="assets/api3-service-revision.png" width="800"><p>
 
 Teste:
-<p><img src="assets/api3-test-revision.png"><p>
+<p><img src="assets/api3-test-revision.png" width="800"><p>
 
 Script SQL usado no teste:
-<p><img src="assets/api3-test-sql.png"><p>
+<p><img src="assets/api3-test-sql.png"> width="800"<p>
 
 <br><li><b>Fiz o gerador da LEP (List of Effective Pages) de acordo com os blocos que fazem parte do manual. 
 Por questão de tempo e falta de integrantes foi feito com dados pré-definidos</b><br><br>
 
 LEP Generator:
-<p><img src="assets/api3-generator-lep.png"><p>
+<p><img src="assets/api3-generator-lep.png" width="800"><p>
 
-e a geração do documento pdf completo.
 
 ### Soft Skills Desenvolvidas
  - Autonomia;
