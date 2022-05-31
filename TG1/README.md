@@ -67,7 +67,34 @@ Tecnológico.
 - Banco MySQL.
 
 ### Contribuições Pessoais:
-Por volta da metade do projeto me tornei Scrum Master da equipe. Se tratando de programação, ajudei no layout das páginas de digitação,
+<li><b>Por volta da metade do projeto me tornei Scrum Master da equipe, então fiquei encarregado de organizar as tarefas por Sprint e informar o professor encarregado da API.</b><br><br>
+
+<li><b>Se tratando de programação, criei uma tela de "preparação", que cria o banco com suas respectivas tabelas e permite criar usuários para a aplicação. 
+Também fiz a tela inicial da aplicação, que pede os dados para conectar com o banco.</b><br><br>
+
+Preparação do banco (tela base):
+<p><img src="assets/api2-preparar-bd.png" width="800"></p>
+
+Preparação do banco (lógica que cria a tabela de login):
+<p><img src="assets/api2-tabela-login.png" width="800"></p>
+
+Tela inicial para conseguir conectar ao banco:
+<p><img src="assets/api2-conectar-bd.png" width="800"></p>
+
+<br><li><b>Criei a tela de login do sistema.</b><br><br>
+
+Tela de Login:
+<p><img src="assets/api2-login.png" width="800"></p>
+
+<br><li><b>Fiz a página de exportação para csv.</b><br><br>
+
+Tela de Relatório:
+<p><img src="assets/api2-relatorio.png" width="800"></p>
+
+Relatório
+<p><img src="assets/api2-relatorio.png" width="800"></p>
+
+ajudei no layout das páginas de digitação,
 ajudei na conexão entre Java e o banco MySQL, e fiz por conta própia a página de exportação para csv.
 
 ### Soft Skills Desenvolvidas
@@ -120,7 +147,7 @@ Teste:
 <p><img src="assets/api3-test-revision.png" width="800"><p>
 
 Script SQL usado no teste:
-<p><img src="assets/api3-test-sql.png"> width="800"<p>
+<p><img src="assets/api3-test-sql.png" width="800"><p>
 
 <br><li><b>Fiz o gerador da LEP (List of Effective Pages) de acordo com os blocos que fazem parte do manual. 
 Por questão de tempo e falta de integrantes foi feito com dados pré-definidos</b><br><br>
