@@ -20,33 +20,33 @@ do sexto semestre, que foi o Scrum Master da equipe
 <li><b>Fiz por conta própria a página de conversão de moeda com toda a lógica de pegar os dados de uma API de moedas e 
 convertar os valores entre Real, Dólar e Euro.</b><br><br>
 
-API de moedas:
-<p><img src="assets/api1-moeda-api.png" width="800"></p>
+<details><summary>API de moedas:</summary>
+<p><img src="assets/api1-moeda-api.png" width="800"></p></details><br>
 
-HTML:
-<p><img src="assets/api1-moeda-html.png" width="800"></p>
+<details><summary>HTML:</summary>
+<p><img src="assets/api1-moeda-html.png" width="800"></p></details><br>
 
-JS com a lógica do reconhecimento de voz:
-<p><img src="assets/api1-moeda-voice.png" width="800"></p>
+<details><summary>JS com a lógica do reconhecimento de voz:</summary>
+<p><img src="assets/api1-moeda-voice.png" width="800"></p></details><br>
 
-<br><li><b>Também criei a página de aeroportos por completo.</b><br><br>
+<li><b>Também criei a página de aeroportos por completo.</b><br><br>
 
-API que retorna os aeroportos próximos do local requisitado:
-<p><img src="assets/api1-aeroporto-api.png" width="800"></p>
+<details><summary>API que retorna os aeroportos próximos do local requisitado:</summary>
+<p><img src="assets/api1-aeroporto-api.png" width="800"></p></details><br>
 
-HTML:
-<p><img src="assets/api1-aeroporto-html.png" width="800"></p>
+<details><summary>HTML:</summary>
+<p><img src="assets/api1-aeroporto-html.png" width="800"></p></details><br>
 
-JS com a lógica do reconhecimento de voz:
-<p><img src="assets/api1-aeroporto-voice.png" width="800"></p>
+<details><summary>JS com a lógica do reconhecimento de voz:</summary>
+<p><img src="assets/api1-aeroporto-voice.png" width="800"></p></details><br>
 
-<br><li><b>E por fim, fiz a página de recomendação de filmes, que consome uma API desenvolvida pela Scrum Master do 6.º semestre.</b><br><br>
+<li><b>E por fim, fiz a página de recomendação de filmes, que consome uma API desenvolvida pela Scrum Master do 6.º semestre.</b><br><br>
 
-API da Scrum Master:
-<p><img src="assets/api1-filme-api.png" width="800"></p>
+<details><summary>API da Scrum Master:</summary>
+<p><img src="assets/api1-filme-api.png" width="800"></p></details><br>
 
-HTML:
-<p><img src="assets/api1-filme-html.png" width="800"></p>
+<details><summary>HTML:</summary>
+<p><img src="assets/api1-filme-html.png" width="800"></p></details>
 
 
 ### Soft Skills Desenvolvidas
@@ -72,30 +72,25 @@ Tecnológico.
 <li><b>Se tratando de programação, criei uma tela de "preparação", que cria o banco com suas respectivas tabelas e permite criar usuários para a aplicação. 
 Também fiz a tela inicial da aplicação, que pede os dados para conectar com o banco.</b><br><br>
 
-Preparação do banco (tela base):
-<p><img src="assets/api2-preparar-bd.png" width="800"></p>
+<details><summary>Preparação do banco (tela base):</summary>
+<p><img src="assets/api2-preparar-bd.png" width="800"></p></details><br>
 
-Preparação do banco (lógica que cria a tabela de login):
-<p><img src="assets/api2-tabela-login.png" width="800"></p>
+<details><summary>Preparação do banco (lógica que cria a tabela de login):</summary>
+<p><img src="assets/api2-tabela-login.png" width="800"></p></details><br>
 
-Tela inicial para conseguir conectar ao banco:
-<p><img src="assets/api2-conectar-bd.png" width="800"></p>
+<details><summary>Tela inicial para conseguir conectar ao banco:</summary>
+<p><img src="assets/api2-conectar-bd.png" width="800"></p></details><br>
 
-<br><li><b>Criei a tela de login do sistema.</b><br><br>
+<li><b>Criei a tela de login do sistema.</b><br><br>
 
-Tela de Login:
-<p><img src="assets/api2-login.png" width="800"></p>
+<details><summary>Tela de Login:</summary>
+<p><img src="assets/api2-login.png" width="800"></p></details><br>
 
-<br><li><b>Fiz a página de exportação para csv.</b><br><br>
+<li><b>Fiz a página de exportação para csv.</b><br><br>
 
-Tela de Relatório:
-<p><img src="assets/api2-relatorio.png" width="800"></p>
+<details><summary>Tela de Relatório:</summary>
+<p><img src="assets/api2-relatorio.png" width="800"></p></details>
 
-Relatório
-<p><img src="assets/api2-relatorio.png" width="800"></p>
-
-ajudei no layout das páginas de digitação,
-ajudei na conexão entre Java e o banco MySQL, e fiz por conta própia a página de exportação para csv.
 
 ### Soft Skills Desenvolvidas
  - Liderança;
@@ -129,31 +124,31 @@ Na metade do projeto 2 membros do grupo começaram a ajudar bem menos no projeto
 ### Contribuições Pessoais:
 <li><b>Criei por conta própia uma classe referente a ler e retornar os dados de um arquivo csv.</b><br><br>
 
-Classe Reader:
-<p><img src="assets/api3-file-reader.png" width="800"><p>
+<details><summary>Classe Reader:</summary>
+<p><img src="assets/api3-file-reader.png" width="800"></p></details>
 
 <br><li><b>Fiz endpoints, repository, service e teste relacionados a revisão</b><br><br>
 
-Controller:
-<p><img src="assets/api3-controller-revision.png" width="800"><p>
+<details><summary>Controller:</summary>
+<p><img src="assets/api3-controller-revision.png" width="800"></p></details><br>
 
-Repository:
-<p><img src="assets/api3-repository-revision.png" width="800"><p>
+<details><summary>Repository:</summary>
+<p><img src="assets/api3-repository-revision.png" width="800"></p></details><br>
 
-Service:
-<p><img src="assets/api3-service-revision.png" width="800"><p>
+<details><summary>Service:</summary>
+<p><img src="assets/api3-service-revision.png" width="800"></p></details><br>
 
-Teste:
-<p><img src="assets/api3-test-revision.png" width="800"><p>
+<details><summary>Testes:</summary>
+<p><img src="assets/api3-test-revision.png" width="800"></p></details><br>
 
-Script SQL usado no teste:
-<p><img src="assets/api3-test-sql.png" width="800"><p>
+<details><summary>Script SQL usado no teste:</summary>
+<p><img src="assets/api3-test-sql.png" width="800"></p></details>
 
 <br><li><b>Fiz o gerador da LEP (List of Effective Pages) de acordo com os blocos que fazem parte do manual. 
 Por questão de tempo e falta de integrantes foi feito com dados pré-definidos</b><br><br>
 
-LEP Generator:
-<p><img src="assets/api3-generator-lep.png" width="800"><p>
+<details><summary>LEP Generator:</summary>
+<p><img src="assets/api3-generator-lep.png" width="800"></p></details>
 
 
 ### Soft Skills Desenvolvidas
