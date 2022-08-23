@@ -2,7 +2,7 @@
 
 ## API 1º Semestre (2020-1)
 
-### NUNA, assistente de voz para viagens
+### [NUNA, assistente de voz para viagens](https://github.com/arienemaiara/assistente-voz-viagens)
 <p><img src="assets/nuna.png" width="150"></p>
 
 Uma assistente ativada por comando de voz para auxiliar em viagens e na estadia.
@@ -17,6 +17,8 @@ do sexto semestre, que foi o Scrum Master da equipe
 - JavaScript.
 
 ### Contribuições Pessoais:
+Todas os scripts das páginas possuem a mesma base para reconhecimento de voz, que então é feito um tratamento específico 
+para cada página. Esse reconhecimento de voz inicial não foi feito por mim.
 <li><b>Fiz por conta própria a página de conversão de moeda com toda a lógica de pegar os dados de uma API de moedas e 
 convertar os valores entre Real, Dólar e Euro.</b><br><br>
 
@@ -29,7 +31,7 @@ convertar os valores entre Real, Dólar e Euro.</b><br><br>
 <details><summary>JS com a lógica do reconhecimento de voz:</summary>
 <p><img src="assets/api1-moeda-voice.png" width="800"></p></details><br>
 
-<li><b>Também criei a página de aeroportos por completo.</b><br><br>
+<li><b>Também construi a página de aeroportos, onde o usuário diz o nome de uma cidade e é mostrado os aeroportos próximos.</b><br><br>
 
 <details><summary>API que retorna os aeroportos próximos do local requisitado:</summary>
 <p><img src="assets/api1-aeroporto-api.png" width="800"></p></details><br>
@@ -56,7 +58,7 @@ convertar os valores entre Real, Dólar e Euro.</b><br><br>
 
 ## API 2º Semestre (2020-2)
 
-### Software para digitação de contas de água e luz
+### [Software para digitação de contas de água e luz](https://github.com/DevanirRamosJr/Projeto_Integrador2)
 
 Um software feito para que possa ser facilmente digitado os dados importantes de contas de água ou luz, que eram salvas em um banco local
 e com a possibilidade de editar algum dado e gerar um csv com os dados da conta. Este projeto foi realizado em parceria com uma empresa do Parque
@@ -98,7 +100,7 @@ Também fiz a tela inicial da aplicação, que pede os dados para conectar com o
  - Trabalho em equipe;
  - Autonomia
 
-## API 3º Semestre (2021-1)
+## [API 3º Semestre (2021-1)](https://github.com/API-FATEC/API_3sem_2021-01)
 
 ```
                         `7MMM.     ,MMF'  .g8""8q.   `7MMM.     ,MMF'
