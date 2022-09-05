@@ -4,7 +4,9 @@
 
 ## API 1º Semestre (2020-1)
 
-### <center>[NUNA, assistente de voz para viagens](https://github.com/arienemaiara/assistente-voz-viagens)
+<div align="center">
+
+### [NUNA, assistente de voz para viagens](https://github.com/arienemaiara/assistente-voz-viagens) </div>
 <p align="center"><img src="assets/nuna.png" width="150"></p>
 
 Uma assistente ativada por comando de voz para auxiliar em viagens e na estadia. O desafio base era "assistente de voz" 
@@ -76,8 +78,9 @@ aeroportos próximos.</b><br><br>
 </div>
 
 ## API 2º Semestre (2020-2)
+<div align="center">
 
-### <center>[Software para digitação de contas de água e luz](https://github.com/DevanirRamosJr/Projeto_Integrador2)
+### [Software para digitação de contas de água e luz](https://github.com/DevanirRamosJr/Projeto_Integrador2) </div>
 
 Um software para poder digitar coom facilidade os dados importantes de contas de água ou luz para salvar em um banco local, 
 com a possibilidade de editar algum dado de contas já salvas e gerar arquivo csv com os dados de uma conta. Este projeto 
@@ -139,8 +142,9 @@ Também fiz a tela inicial da aplicação, que pede os dados para conectar com o
 </div>
 
 ## API 3º Semestre (2021-1)
+<div align="center">
 
-### <center>[MOM - Management of Operational Manuals](https://github.com/API-FATEC/API_3sem_2021-01)
+### [MOM - Management of Operational Manuals](https://github.com/API-FATEC/API_3sem_2021-01) </div>
 
 ```
                         `7MMM.     ,MMF'  .g8""8q.   `7MMM.     ,MMF'
@@ -220,8 +224,9 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 
 
 ## API 3º Semestre (2021-1)
+<div align="center">
 
-### <center>[AgendHouse](https://github.com/API-4-SEMESTRE/PROJETO-API)
+### [AgendHouse](https://github.com/API-4-SEMESTRE/PROJETO-API) </div>
 <p align="center"><img src="assets/api4-logo.png" width="550"></p>
 
 Sistema para o agendamento de diversos tipos de eventos na Casa Oracle, tendo em mente medidas de segurança relacionados 
