@@ -124,7 +124,7 @@ Também fiz a tela inicial da aplicação, que pede os dados para conectar com o
 <div style="float: left; width: 50%">
 
 ### Hard Skills Desenvolvidas
-- Aprimorei meus conhecimentos sobre versionamenrto com GIT;
+- Aprimorei meus conhecimentos sobre versionamento com GIT;
 - Programei utilizando Java e conectando com o banco MySql;
 - Programei a interface gráfica com Java Swing.
 </div>
@@ -207,10 +207,10 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 <div style="float: left; width: 50%">
 
 ### Hard Skills Desenvolvidas
-- Aprimorei meus conhecimentos sobre versionamenrto com GIT;
+- Aprimorei meus conhecimentos sobre versionamento com GIT;
 - Aprendi sobre o padrão de projeto Model View Controller;
 - Programei utilizando Java Spring Boot;
-- Programei a interface gráfica com Java Swing.
+- Aprendi sobre a existencia e implementação de testes unitários.
 </div>
 
 <div style="float: right; width: 50%">
