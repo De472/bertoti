@@ -223,7 +223,7 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 </div>
 
 
-## API 3º Semestre (2021-1)
+## API 4º Semestre (2021-2)
 <div align="center">
 
 ### [AgendHouse](https://github.com/API-4-SEMESTRE/PROJETO-API) </div>
