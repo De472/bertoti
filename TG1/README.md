@@ -14,7 +14,7 @@ e as equipes deveriam pensar em algum tema para a assistente. Foi decidido desen
 funciona por web, assim é possivel utilizar em qualquer dispositivo com acesso a internet. Este projeto não foi feito em 
 parceria com empresas, mas foi desenvolvido com a ajuda de uma aluna do sexto semestre, que fez o papel de Scrum Master.
 
-### Tecnologias Utilizadas:
+### Tecnologias Utilizadas
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
   <img src="https://img.shields.io/static/v1?label=HTML5&message=Front-End&color=E34F26&style=for-the-badge&logo=HTML5"/>
 </a>
@@ -25,7 +25,7 @@ parceria com empresas, mas foi desenvolvido com a ajuda de uma aluna do sexto se
   <img src="https://img.shields.io/static/v1?label=JavaScript&message=Back-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
 </a>
 
-### Contribuições Pessoais:
+### Contribuições Pessoais
 <li><b>Desenvolvi a página de conversão de moeda com toda a lógica de pegar os dados de uma API de moedas e 
 convertar os valores entre Real, Dólar e Euro.</b><br><br>
 
@@ -70,7 +70,6 @@ aeroportos próximos.</b><br><br>
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
- - Autonomia;
  - Trabalho em equipe;
  - Confiança;
  - Organização.
@@ -86,7 +85,7 @@ Um software para poder digitar coom facilidade os dados importantes de contas de
 com a possibilidade de editar algum dado de contas já salvas e gerar arquivo csv com os dados de uma conta. Este projeto 
 foi realizado em parceria com uma empresa do Parque Tecnológico.
 
-### Tecnologias Utilizadas:
+### Tecnologias Utilizadas
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
   <img src="https://img.shields.io/static/v1?label=Java&message=Front-End/Back-End&color=c9042c&style=for-the-badge&logo=java"/>
 </a>
@@ -94,7 +93,7 @@ foi realizado em parceria com uma empresa do Parque Tecnológico.
   <img src="https://img.shields.io/static/v1?label=MySQL&message=Banco de Dados&color=d94a4a&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </a>
 
-### Contribuições Pessoais:
+### Contribuições Pessoais
 <li><b>Por volta da metade do projeto me tornei Scrum Master da equipe, então fiquei encarregado de organizar as tarefas por Sprint e informar o professor encarregado da API.</b><br><br>
 
 <li><b>Se tratando de programação, criei uma tela de "preparação", que cria o banco com suas respectivas tabelas e permite criar usuários para a aplicação. 
@@ -135,8 +134,6 @@ Também fiz a tela inicial da aplicação, que pede os dados para conectar com o
 - Liderança;
 - Responsabilidade;
 - Organização de equipe;
-- Trabalho em equipe;
-- Confiança.
 
 </div>
 </div>
@@ -160,7 +157,7 @@ Sistema para facilitar o gerenciamento dos manuais de produto, podendo revisar, 
 o manual completo. Este projeto foi realizado em parceria com uma empresa da indústria aeronáutica, em específico com a 
 equipe de Publicação Operacional. Na última sprint restou 2 membros da equipe desenvolvendo o projeto.
 
-### Tecnologias Utilizadas:
+### Tecnologias Utilizadas
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
   <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
 </a>
@@ -174,7 +171,7 @@ equipe de Publicação Operacional. Na última sprint restou 2 membros da equipe
   <img src="https://img.shields.io/static/v1?label=Oracle&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
 </a>
 
-### Contribuições Pessoais:
+### Contribuições Pessoais
 <li><b>Criei por conta própia uma classe referente a ler e retornar os dados de um arquivo csv.</b><br><br>
 
 <details><summary>Classe Reader:</summary>
@@ -217,7 +214,8 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 
 ### Soft Skills Desenvolvidas
 - Responsabilidade;
-- Gestão de tempo.
+- Gestão de tempo;
+- Autonomia.
 
 </div>
 </div>
@@ -230,6 +228,52 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 <p align="center"><img src="assets/api4-logo.png" width="550"></p>
 
 Sistema para o agendamento de diversos tipos de eventos na Casa Oracle, tendo em mente medidas de segurança relacionados 
-a Covid-19.
+a Covid-19. Este projeto foi realizado em parceria com uma empresa de Tecnologia que realizava eventos na Casa Oracle, 
+mas com a mudança nas restrições sanitárias por causa da pandemia sua estratégia de organização de eventos mudou e seria 
+mais prático ter uma plataforma web própria para isso.
 
+### Tecnologias utilizadas
+<a href="https://vuejs.org/">
+  <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=Front-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
+</a>
+<a href="https://www.java.com/pt-BR/">
+  <img src="https://img.shields.io/static/v1?label=Java&message=Back-End&color=c9042c&style=for-the-badge&logo=Java"/>
+</a>
+<a href="https://spring.io/projects/spring-boot">
+  <img src="https://img.shields.io/static/v1?label=Spring Boot&message=Back-end&color=6DB33F&style=for-the-badge&logo=Spring"/>
+</a>
+<a href="https://www.oracle.com/br/cloud/">
+  <img src="https://img.shields.io/static/v1?label=Oracle Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+</a>
+<a href="https://www.atlassian.com/software/jira">
+  <img src="https://img.shields.io/static/v1?label=Jira Software&message=Processo&color=0052CC&style=for-the-badge&logo=jirasoftware"/>
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Devops&color=181717&style=for-the-badge&logo=GitHub"/>
+</a>
+
+### Contribuições Pessoais
+
+
+<div style="display: flex">
+<div style="float: left; width: 50%">
+
+### Hard Skills Desenvolvidas
+- Aprimorei meus conhecimentos sobre o padrão de projetos Model View Controller;
+- Programei utilizando Java Spring Boot;
+- Programei um pouco utilizando JavaScript e ViewJs.
+</div>
+
+<div style="float: right; width: 50%">
+
+### Soft Skills Desenvolvidas
+- Comprometimento;
+- Autonomia;
+- Trabalho em Equipe.
+
+</div>
+</div>
 
