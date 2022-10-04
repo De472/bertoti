@@ -227,9 +227,9 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 ### [AgendHouse](https://github.com/API-4-SEMESTRE/PROJETO-API) </div>
 <p align="center"><img src="assets/api4-logo.png" width="550"></p>
 
-Sistema para o agendamento de diversos tipos de eventos na Casa Oracle, tendo em mente medidas de segurança relacionados 
+Sistema para o agendamento de diversas categorias de eventos na Casa Oracle, tendo em mente medidas de segurança relacionados 
 a Covid-19. Este projeto foi realizado em parceria com uma empresa de Tecnologia que realizava eventos na Casa Oracle, 
-mas com a mudança nas restrições sanitárias por causa da pandemia sua estratégia de organização de eventos mudou e seria 
+mas com a mudança nas restrições sanitárias devido à pandemia sua estratégia de organização de eventos mudou e seria 
 mais prático ter uma plataforma web própria para isso.
 
 ### Tecnologias utilizadas
@@ -256,6 +256,18 @@ mais prático ter uma plataforma web própria para isso.
 </a>
 
 ### Contribuições Pessoais
+<li><b>Criei por conta própia o back-end dos CRUDs relacionados ao visitante e eventos, ajudei com os CRUDs do 
+fornecedor, contato e evento. Ajudei um pouco no frontend da página do fornecedor, fiquei responsável por fazer funcionar 
+o autocomplete do CEP.</b><br><br>
+
+<details><summary>Página do fornecedor (apenas html referente ao CEP):</summary>
+<p><img src="assets/api4-fornecedor-vue.png" width="800"></p></details><br>
+
+<details><summary>Página do fornecedor (apenas script referente ao CEP):</summary>
+<p><img src="assets/api4-fornecedor-script.png" width="800"></p></details>
+
+<br><li><b>Criei por conta própria toda a parte do envio de email.</b><br><br>
+
 
 
 <div style="display: flex">
