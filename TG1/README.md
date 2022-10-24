@@ -207,6 +207,7 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 - Aprimorei meus conhecimentos sobre versionamento com GIT;
 - Aprendi sobre o padrão de projeto Model View Controller;
 - Programei utilizando Java Spring Boot;
+- Realizei a conexão entre Oracle Cloud e Java;
 - Aprendi sobre a existencia e implementação de testes unitários.
 </div>
 
@@ -294,3 +295,97 @@ o autocomplete do CEP.</b><br><br>
 </div>
 </div>
 
+
+## API 5º Semestre (2022-1)
+<div align="center">
+
+### [SAS - Score Analysis System](https://github.com/API-5-SEMESTRE)</div>
+<p align="center"><img src="assets/api5-logo.jpeg" width="350"></p>
+
+Sistema que possibilita a prospecção de possíveis novas empresas clientes. Foi disponibilizado bases de dados por 
+arquivos csv  com diversas informações, como o estado das empresas cliente, quais os ramos, quantidade de produtos que
+é consumida (em dinheiro) e se é cliente da empresa parceira do API ou de uma empresa concorrente ou nenhuma das duas. 
+O desafio era organizar e mostrar os dados de uma forma fácil para que seja realizado uma prospecção de novos clientes.
+  
+### Tecnologias utilizadas
+<a href="https://vuejs.org/">
+  <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
+</a>
+<a href="https://www.javascript.com/">
+  <img src="https://img.shields.io/static/v1?label=JavaScript&message=Front-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
+</a>
+<a href="https://www.java.com/pt-BR/">
+<img src="https://img.shields.io/static/v1?label=Java 11&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
+</a>
+<a href="https://spring.io/projects/spring-boot">
+<img src="https://img.shields.io/static/v1?label=Spring Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
+</a>
+  <a href="https://www.python.org/">
+  <img src="https://img.shields.io/static/v1?label=Python&message=Analise de Dados&color=3776AB&style=for-the-badge&logo=Python"/>
+</a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/">
+  <img src="https://img.shields.io/static/v1?label=Flask&message=Analise de Dados&color=000000&style=for-the-badge&logo=Flask"/>
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/static/v1?label=Pandas&message=Analise de Dados&color=150458&style=for-the-badge&logo=pandas"/>
+</a>
+  <a href="https://git-scm.com/">
+  <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
+</a>
+  <a href="https://github.com/">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
+</a>
+  <a href="https://www.postman.com/">
+  <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
+</a>
+  <a href="https://www.oracle.com/br/cloud/">
+<img src="https://img.shields.io/static/v1?label=Oracle Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+</a>
+  <a href="https://www.atlassian.com/br/software/jira">
+  <img src="https://img.shields.io/static/v1?label=Jira&message=Processo&color=0052CC&style=for-the-badge&logo=Jira Software"/>
+</a>
+<a href="https://www.heroku.com/">
+  <img src="https://img.shields.io/static/v1?label=Heroku&message=Hospedagem&color=430098&style=for-the-badge&logo=Heroku"/>
+</a>
+
+  
+### Contribuições Pessoais
+* <b>Fiquei responsável por toda a parte em python, que foi criar gráficos para download no frontend, análise de dados para 
+auxiliar na prospecção. A criação dos gráficos foi feita com pandas e pyplot, enquanto que a integração com o front foi realizada 
+com endpoint do Flask (hospedado na heroku para que toda a aplicação ficasse disponível online).</b><br><br>
+  
+<details><summary>Geração dos gráficos:</summary>
+<p><img src="assets/api5-graph-maker.png" width="800"></p></details><br>
+  
+<details><summary>Endpoints do Flask:</summary>
+<p><img src="assets/api5-flask.png" width="800"></p></details><br>
+  
+* <b>A análise de dados realiza foi a criação de um novo campo pra cada cliente do banco, criei o Score, que é uma nota (0 - 1000) 
+atribuída baseada nas variáveis:</b><br>
+  * Localização: dependendo da localização o Score aumenta ou abaixa, porque clientes de um estado onde a média de consumo é baixa 
+    dificilmente teriam um Score "competitivo" com os que ficam no estado de maior consumo, então nessa situação o Score recebe um boost 
+    para ficar equivalente.<br>
+  * Consumo nos últimos meses: o Score aumenta ou abaixa se o cliente consumiu mais ou menos que o mês anterior.</b><br><br>
+  
+<details><summary>Geração do Score:</summary>
+<p><img src="assets/api5-score-maker.png" width="800"></p></details><br>
+
+
+<div style="display: flex">
+<div style="float: left; width: 50%">
+
+### Hard Skills Desenvolvidas
+- Utilizei pela primeira vez Flask, antes eu só conhecia o Django;
+- Fiz o deploy do backend Python na heroku;
+- Fiz a conexão entre Oracle Cloud e Python, que foi bem mais complicado do que conectar com Java.
+</div>
+
+<div style="float: right; width: 50%">
+
+### Soft Skills Desenvolvidas
+- Trabalho em equipe;
+- Gestão de tempo;
+- Organização.
+
+</div>
+</div>
