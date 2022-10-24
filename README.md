@@ -299,7 +299,7 @@ o autocomplete do CEP.</b><br><br>
 ## API 5º Semestre (2022-1)
 <div align="center">
 
-### [SAS - Score Analysis System](https://github.com/API-5-SEMESTRE)</div>
+### [SAS - Score Analysis System](https://github.com/API-5-SEMESTRE) </div>
 <p align="center"><img src="assets/api5-logo.jpeg" width="350"></p>
 
 Sistema que possibilita a prospecção de possíveis novas empresas clientes. Foi disponibilizado bases de dados por 
@@ -389,3 +389,34 @@ atribuída baseada nas variáveis:</b><br>
 
 </div>
 </div>
+
+
+## API 6º Semestre (2022-2)
+<div align="center">
+
+### [CATE - Coleta Análise Tratamento Exibição](https://github.com/API-6-SEMESTRE) </div>
+<p align="center"><img src="assets/api6-logo.png" width="350"></p>
+
+Sistema para a análise de dados referentes a cobranças e pagamentos. A empresa parceira é responsável por cuidar do conciliamento 
+entre o pagamento recebido e a cobrança, atividades de duas empresas diferentes, e o desafio foi analisar as bases de dados 
+disponibilizadas para realizar essa análise e mostrar de forma simples os resultados.
+
+
+### Tecnologias utilizadas
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/static/v1?label=Python&message=Analise de Dados&color=3776AB&style=for-the-badge&logo=Python"/>
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://img.shields.io/static/v1?label=Pandas&message=Analise de Dados&color=150458&style=for-the-badge&logo=pandas"/>
+</a>
+<a href="https://jupyter.org/">
+  <img src="https://img.shields.io/badge/Análise de Dados-%23FA0F00.svg?label=Jupyter Notebook&message=Analise de Dados&style=for-the-badge&logo=jupyter&logoColor=white">
+</a>
+<a href="https://www.mongodb.com">
+  <img src="https://img.shields.io/badge/Banco NoSQL-%234ea94b.svg?label=MongoDB&style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+
+### Contribuições Pessoais
+* <b>Após a inserção dos dados base no MongoDB é ativado o meu script, que coleta esses dados e realiza a análise para 
+verificar as conciliações, divergências e anomalias.</b><br><br>
