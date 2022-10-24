@@ -257,7 +257,7 @@ mais prático ter uma plataforma web própria para isso.
 
 ### Contribuições Pessoais
 <li><b>Criei por conta própia o back-end dos CRUDs relacionados ao visitante e eventos, ajudei com os CRUDs do 
-fornecedor, contato e evento. Ajudei um pouco no frontend da página do fornecedor, fiquei responsável por fazer funcionar 
+fornecedor, contato e evento. Realizei a conexão do backend com o Banco Oracle Cloud (utilizando wallet). Ajudei um pouco no frontend da página do fornecedor, fiquei responsável por fazer funcionar 
 o autocomplete do CEP.</b><br><br>
 
 <details><summary>Página do fornecedor (apenas html referente ao CEP):</summary>
@@ -266,8 +266,13 @@ o autocomplete do CEP.</b><br><br>
 <details><summary>Página do fornecedor (apenas script referente ao CEP):</summary>
 <p><img src="assets/api4-fornecedor-script.png" width="800"></p></details>
 
-<br><li><b>Criei por conta própria toda a parte do envio de email.</b><br><br>
+<br><li><b>Criei por conta própria toda a parte do envio de emails que são realizados ao marcar um evento.</b><br><br>
 
+<details><summary>Lógica de criação dos email:</summary>
+<p><img src="assets/api4-email-service.png" width="800"></p></details><br>
+
+<details><summary>Um template de email utilizado (quando o colaborador agenda um evento ele receberá este email):</summary>
+<p><img src="assets/api4-email-template.png" width="800"></p></details><br>
 
 
 <div style="display: flex">
