@@ -422,7 +422,8 @@ disponibilizadas para realizar essa análise e mostrar de forma simples os resul
 verificar as conciliações, divergências e anomalias.</b><br><br>
 
 <details><summary>Notebook com um exemplo da análise:</summary>
-<p><img src="assets/api6-notebook.ipynb" width="800"></p></details><br>
+<p><img src="assets/api6-notebook.jpg" width="800"></p></details><br>
+O arquivo do Jupiter Notebook pode ser acessado <a href="https://github.com/API-6-SEMESTRE/Projeto/blob/3-Sprint/src/data_analysis.ipynb">clicando aqui.</a>
 
 
 ### Hard Skills Desenvolvidas
