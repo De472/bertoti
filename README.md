@@ -207,7 +207,7 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 - Aprimorei meus conhecimentos sobre versionamento com GIT;
 - Aprendi sobre o padrão de projeto Model View Controller;
 - Programei utilizando Java Spring Boot;
-- Realizei a conexão entre Oracle Cloud e Java;
+- Realizei a conexão entre Oracle Cloud Database e Java;
 - Aprendi sobre a existencia e implementação de testes unitários.
 </div>
 
@@ -377,7 +377,7 @@ atribuída baseada nas variáveis:</b><br>
 ### Hard Skills Desenvolvidas
 - Utilizei pela primeira vez Flask, antes eu só conhecia o Django;
 - Fiz o deploy do backend Python na heroku;
-- Fiz a conexão entre Oracle Cloud e Python, que foi bem mais complicado do que conectar com Java.
+- Fiz a conexão entre Oracle Cloud Database e Python, que foi bem mais complicado do que conectar com Java.
 </div>
 
 <div style="float: right; width: 50%">
@@ -420,3 +420,23 @@ disponibilizadas para realizar essa análise e mostrar de forma simples os resul
 ### Contribuições Pessoais
 * <b>Após a inserção dos dados base no MongoDB é ativado o meu script, que coleta esses dados e realiza a análise para 
 verificar as conciliações, divergências e anomalias.</b><br><br>
+
+<details><summary>Notebook com um exemplo da análise:</summary>
+<p><img src="assets/api6-notebook.ipynb" width="800"></p></details><br>
+
+
+### Hard Skills Desenvolvidas
+- Aprimorei meus conhecimentos de Pandas;
+- Utilizei Jupyter Notebook pela primeira vez;
+- Passei um pouco do meu conhecimento sobre Mongo para minha equipe.
+</div>
+
+<div style="float: right; width: 50%">
+
+### Soft Skills Desenvolvidas
+- Organização;
+- Autonomia;
+- Trabalho em equipe.
+
+</div>
+</div>
