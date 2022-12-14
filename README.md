@@ -1,6 +1,23 @@
-# Devanir Ramos Junior
-# Banco de Dados - Fatec Prof. Jessen Vidal
-# Portfólio dos APIs (Aprendizagem por Projetos Integrados)
+# [Devanir Ramos Junior](https://br.linkedin.com/in/devanir-ramos-junior)
+<p align="center"><img src="assets/dev.jpg" width="250"></p>
+
+Estudo Banco de Dados na [Fatec prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net).
+
+Comecei o curso sem saber muita coisa técnica de programação, só conhecia um pouco da lógica porque gosto de entender 
+certos aspectos de jogos (o motivo de certos bugs funcionarem, como eram otimizados no passado, etc). Hoje em dia trabalho 
+como desenvolvedor Full Stack Junior, mas tenho preferência pro back-end.
+
+### Principais conhecimentos:
+- Python (em específico Django);
+- Vue.js;
+- Java (em específico Spring Boot);
+- Bancos SQL (utilizei MySQL, Oracle, SQLite e PostgreSQL);
+- Bancos NoSQL (utilizei MongoDB e Firebase).
+
+Meu Linktree está [disponível aqui](https://linktr.ee/devrjr)
+
+
+# Portfólio dos APIs (Aprendizagem por Projetos Integrados) - BD
 
 ## API 1º Semestre (2020-1)
 
@@ -25,6 +42,8 @@ fez o papel de Scrum Master.
 <a href="https://www.javascript.com/">
   <img src="https://img.shields.io/static/v1?label=JavaScript&message=Back-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
 </a>
+
+Tecnologias básicas para desenvolvimento web, pois como foi o primeiro API alguns integrantes não possuiam conhecimento em programação.
 
 ### Contribuições Pessoais
 <li><b>Desenvolvi a página de conversão de moeda com toda a lógica de pegar os dados de uma API de moedas e 
@@ -74,6 +93,8 @@ aeroportos próximos.</b><br><br>
  - Trabalho em equipe;
  - Confiança;
  - Organização.
+ 
+ Primero trabalho de API realizado, precisou de muito trabalho em equipe e organização.
 </div>
 </div>
 
@@ -93,6 +114,8 @@ csv com os dados de uma conta. Este projeto foi realizado em parceria com a empr
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
   <img src="https://img.shields.io/static/v1?label=MySQL&message=Banco de Dados&color=d94a4a&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </a>
+
+ Tecnologias escolhidas para desenvolver uma aplicação desktop em Java utilizando Swing.
 
 ### Contribuições Pessoais
 <li><b>Por volta da metade do projeto me tornei Scrum Master da equipe, então fiquei encarregado de organizar as tarefas por Sprint e informar o professor encarregado da API.</b><br><br>
@@ -136,6 +159,7 @@ Também fiz a tela inicial da aplicação, que pede os dados para conectar com o
 - Responsabilidade;
 - Organização de equipe;
 
+Skills escolhidas pelo fato de me tornar Scrum Master na metade do projeto.
 </div>
 </div>
 
@@ -171,6 +195,8 @@ em específico a equipe de Publicação Operacional. Na última sprint restou 2 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
   <img src="https://img.shields.io/static/v1?label=Oracle&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
 </a>
+
+Vue.js foi escolhido para termos mais facilidade no desenvolvimento do front-end. Spring foi escolhido pra ser o back-end com APIs REST.
 
 ### Contribuições Pessoais
 <li><b>Criei por conta própia uma classe referente a ler e retornar os dados de um arquivo csv.</b><br><br>
@@ -219,6 +245,8 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 - Gestão de tempo;
 - Autonomia.
 
+Skills escolhidas devido abandono de menbros da equipe durante o projeto, que ocasionou em uma certa mudança na 
+organização das tarefas que cada um tinha.
 </div>
 </div>
 
@@ -253,14 +281,15 @@ eventos mudou e seria mais prático ter uma plataforma web própria.
 <a href="https://www.atlassian.com/software/jira">
   <img src="https://img.shields.io/static/v1?label=Jira Software&message=Processo&color=0052CC&style=for-the-badge&logo=jirasoftware"/>
 </a>
-<a href="https://github.com">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=Devops&color=181717&style=for-the-badge&logo=GitHub"/>
-</a>
+
+Vue.js foi escolhido para termos mais facilidade no desenvolvimento do front-end. Spring foi escolhido pra ser o back-end com APIs REST. 
+Foi utilizado o banco da Oracle Cloud para a aplicação ter um banco único entre todos os membros da equipe. 
+O Jira foi utilizado para uma melhor organização e visualização das tarefas.
 
 ### Contribuições Pessoais
 <li><b>Criei por conta própia o back-end dos CRUDs relacionados ao visitante e eventos, ajudei com os CRUDs do 
-fornecedor, contato e evento. Realizei a conexão do backend com o Banco Oracle Cloud (utilizando wallet). Ajudei um pouco no frontend da página do fornecedor, fiquei responsável por fazer funcionar 
-o autocomplete do CEP.</b><br><br>
+fornecedor, contato e evento. Realizei a conexão do backend com o Banco Oracle Cloud (utilizando wallet). Ajudei 
+um pouco no frontend da página do fornecedor, fiquei responsável por fazer funcionar o autocomplete do CEP.</b><br><br>
 
 <details><summary>Página do fornecedor (apenas html referente ao CEP):</summary>
 <p><img src="assets/api4-fornecedor-vue.png" width="800"></p></details><br>
@@ -293,6 +322,7 @@ o autocomplete do CEP.</b><br><br>
 - Autonomia;
 - Trabalho em Equipe.
 
+Skills escolhidas porque novamente ocorreu abandono de membros da equipe durante o projeto.
 </div>
 </div>
 
@@ -316,9 +346,6 @@ prospecção de novos clientes. O projeto foi feito em parceria com o SPC Brasil
 <a href="https://www.javascript.com/">
   <img src="https://img.shields.io/static/v1?label=JavaScript&message=Front-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
 </a>
-<a href="https://www.java.com/pt-BR/">
-<img src="https://img.shields.io/static/v1?label=Java 11&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
-</a>
 <a href="https://spring.io/projects/spring-boot">
 <img src="https://img.shields.io/static/v1?label=Spring Boot&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
 </a>
@@ -331,13 +358,7 @@ prospecção de novos clientes. O projeto foi feito em parceria com o SPC Brasil
 <a href="https://pandas.pydata.org/">
   <img src="https://img.shields.io/static/v1?label=Pandas&message=Analise de Dados&color=150458&style=for-the-badge&logo=pandas"/>
 </a>
-  <a href="https://git-scm.com/">
-  <img src="https://img.shields.io/static/v1?label=Git&message=DevOps&color=F05032&style=for-the-badge&logo=Git"/>
-</a>
-  <a href="https://github.com/">
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=DevOps&color=181717&style=for-the-badge&logo=GitHub"/>
-</a>
-  <a href="https://www.postman.com/">
+<a href="https://www.postman.com/">
   <img src="https://img.shields.io/static/v1?label=Postman&message=DevOps&color=FF6C37&style=for-the-badge&logo=Postman"/>
 </a>
   <a href="https://www.oracle.com/br/cloud/">
@@ -350,7 +371,12 @@ prospecção de novos clientes. O projeto foi feito em parceria com o SPC Brasil
   <img src="https://img.shields.io/static/v1?label=Heroku&message=Hospedagem&color=430098&style=for-the-badge&logo=Heroku"/>
 </a>
 
-  
+Vue.js foi escolhido para termos mais facilidade no desenvolvimento do front-end. Spring foi escolhido pra ser o back-end com APIs REST.
+Flask foi utilizado para realizar o download das imagens dos gráficos (foi feito separado para não gerar conflitos no desenvolvimento do 
+back-end principal). Postman foi utilizado para auxiliar nos testes das API REST. Banco da Oracle Cloud  utilizado para a aplicação ter 
+um banco único entre todos os membros da equipe. Jira utilizado para uma melhor organização e visualização das tarefas. Heroku utilizada 
+para fazer o deploy do front-end e dos dois back-end. Também foi utilizado o Power BI para realizar uma amostragem detalhada e dinâmica dos dados.
+
 ### Contribuições Pessoais
 * <b>Fiquei responsável por toda a parte em python, que foi criar gráficos para download no frontend e analisar os dados para 
 auxiliar na prospecção. A criação dos gráficos foi feita com pandas e pyplot, enquanto que a integração com o front foi realizada 
@@ -389,6 +415,7 @@ atribuída baseada nas variáveis:</b><br>
 - Gestão de tempo;
 - Organização.
 
+Skills escolhidas porque foi o primeiro semestre que trabalhei, então tive que me ajustar para realizar minhas tarefas.
 </div>
 </div>
 
@@ -418,7 +445,13 @@ de uma forma simples.
 <a href="https://www.mongodb.com">
   <img src="https://img.shields.io/badge/Banco NoSQL-%234ea94b.svg?label=MongoDB&style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+  <img src="https://img.shields.io/static/v1?label=MySQL&message=Banco de Dados&color=d94a4a&style=for-the-badge&logo=MySQL&logoColor=white"/>
+</a>
 
+Python com Pandas + Jupyter Notebook foram utilizados para realizar as análises de dados. MongoDB foi utilizado para guardar os dados entre 
+os níveis das análises de dados, pois nem sempre os dados possuiam um padrão. MySQL utilizado para guardar os dados após passar pela última 
+etapa da análise, onde eles possuiam um padrão. Também foi utilizado o Power BI para realizar uma amostragem detalhada e dinâmica dos dados.
 
 ### Contribuições Pessoais
 * <b>Após a inserção dos dados base no MongoDB é ativado o meu script, que coleta esses dados e realiza a análise para 
@@ -441,8 +474,9 @@ O arquivo do Jupiter Notebook pode ser acessado <a href="https://github.com/API-
 
 ### Soft Skills Desenvolvidas
 - Organização;
-- Autonomia;
-- Trabalho em equipe.
+- Trabalho em equipe;
+- Autonomia.
 
+Skills escolhidas devido ao fato das análises de dados dependerem bastante da compreensão e troca de informações / dúvidas entre o PO e o resto da equipe
 </div>
 </div>
