@@ -14,7 +14,7 @@ como desenvolvedor Full Stack Junior, mas tenho preferência pro back-end.
 - Bancos SQL (utilizei MySQL, Oracle, SQLite e PostgreSQL);
 - Bancos NoSQL (utilizei MongoDB e Firebase).
 
-Meu Linktree está [disponível aqui](https://linktr.ee/devrjr)
+Meu Linktree está [disponível aqui](https://linktr.ee/devrjr).
 
 
 # Portfólio dos APIs (Aprendizagem por Projetos Integrados) - BD
@@ -90,11 +90,11 @@ aeroportos próximos.</b><br><br>
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
- - Trabalho em equipe;
- - Confiança;
- - Organização.
+ - Trabalho em equipe (todos unidos se ajudando por terem pouco conhecimento em programação);
+ - Confiança (poder contar com a ajuda de todos);
+ - Organização (conseguir organizar e manejar as tarefas da API e matérias do curso).
  
- Primero trabalho de API realizado, precisou de muito trabalho em equipe e organização.
+Primero trabalho de API realizado, precisou de muito trabalho em equipe e organização.
 </div>
 </div>
 
@@ -115,7 +115,7 @@ csv com os dados de uma conta. Este projeto foi realizado em parceria com a empr
   <img src="https://img.shields.io/static/v1?label=MySQL&message=Banco de Dados&color=d94a4a&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </a>
 
- Tecnologias escolhidas para desenvolver uma aplicação desktop em Java utilizando Swing.
+Tecnologias escolhidas para desenvolver uma aplicação desktop em Java utilizando Swing.
 
 ### Contribuições Pessoais
 <li><b>Por volta da metade do projeto me tornei Scrum Master da equipe, então fiquei encarregado de organizar as tarefas por Sprint e informar o professor encarregado da API.</b><br><br>
@@ -155,9 +155,9 @@ Também fiz a tela inicial da aplicação, que pede os dados para conectar com o
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
-- Liderança;
-- Responsabilidade;
-- Organização de equipe;
+- Liderança (pela experiência de Scrum Master);
+- Responsabilidade (por ter que cuidar da equipe e informar o professor responsável);
+- Organização de equipe (ter que fazer a distribuição das tarefas e organizar as sprints);
 
 Skills escolhidas pelo fato de me tornar Scrum Master na metade do projeto.
 </div>
@@ -241,9 +241,9 @@ Por questão de tempo e falta de integrantes foi feito com dados pré-definidos<
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
-- Responsabilidade;
-- Gestão de tempo;
-- Autonomia.
+- Responsabilidade (por ter que me comprometer mais ao projeto devido ao abandono de membros da equipe);
+- Gestão de tempo (por precisar gerenciar mais o tempo entre a API e matérias);
+- Autonomia (porque nos endpoints e testes tive liberdade para desenvolvê-los).
 
 Skills escolhidas devido abandono de menbros da equipe durante o projeto, que ocasionou em uma certa mudança na 
 organização das tarefas que cada um tinha.
@@ -318,9 +318,9 @@ um pouco no frontend da página do fornecedor, fiquei responsável por fazer fun
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
-- Comprometimento;
-- Autonomia;
-- Trabalho em Equipe.
+- Comprometimento (por precisar me dedicar mais ao projeto devido ao abandono de membros da equipe);
+- Autonomia (porque tive liberdade na hora de desenvolver os endpoints e emails);
+- Trabalho em Equipe (por conseguir entregar um bom produto final apesar do abandono de membros da equipe).
 
 Skills escolhidas porque novamente ocorreu abandono de membros da equipe durante o projeto.
 </div>
@@ -411,9 +411,9 @@ atribuída baseada nas variáveis:</b><br>
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
-- Trabalho em equipe;
-- Gestão de tempo;
-- Organização.
+- Trabalho em equipe (por ter tido o apoio da minha equipe em relação ao Score);
+- Gestão de tempo (porque foi o primeiro semestre que trabalhei e estudei);
+- Organização (assim como a gestão de tempo, foi pelo fato de precisar me organizar pra realizar as tarefas da API e matérias).
 
 Skills escolhidas porque foi o primeiro semestre que trabalhei, então tive que me ajustar para realizar minhas tarefas.
 </div>
@@ -473,9 +473,9 @@ O arquivo do Jupiter Notebook pode ser acessado <a href="https://github.com/API-
 <div style="float: right; width: 50%">
 
 ### Soft Skills Desenvolvidas
-- Organização;
-- Trabalho em equipe;
-- Autonomia.
+- Organização (porque a análise de dados é um proceso de 3 etapas);
+- Trabalho em equipe (por conseguir realizar uma integração fácil entre a minha parte da análise e os outros);
+- Autonomia (por ter liberdade no desenvolvimento do algoritmo de análise da minha etapa).
 
 Skills escolhidas devido ao fato das análises de dados dependerem bastante da compreensão e troca de informações / dúvidas entre o PO e o resto da equipe
 </div>
