@@ -477,6 +477,6 @@ O arquivo do Jupiter Notebook pode ser acessado <a href="https://github.com/API-
 - Trabalho em equipe (por conseguir realizar uma integração fácil entre a minha parte da análise e os outros);
 - Autonomia (por ter liberdade no desenvolvimento do algoritmo de análise da minha etapa).
 
-Skills escolhidas devido ao fato das análises de dados dependerem bastante da compreensão e troca de informações / dúvidas entre o PO e o resto da equipe
+Skills escolhidas devido ao fato das análises de dados dependerem bastante da compreensão e troca de informações / dúvidas entre o PO e o resto da equipe.
 </div>
 </div>
